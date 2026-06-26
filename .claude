@@ -1,7 +1,0 @@
-{
-  "name": "Medal Report Agent",
-  "description": "Runs the Olympic medal leaderboard reporter",
-  "entrypoint": "medal_report_fixed.py",
-  "runtime": "python3",
-  "dependencies": ["pandas", "matplotlib"]
-}
